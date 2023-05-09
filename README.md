@@ -1,4 +1,4 @@
-Hi My name is Padma Dhakappa
+## Hi My name is Padma Dhakappa
 ✉️  You can contact me at dhakappa.padma@gmail.com
 
 🧠  I'm learning Python
