@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi My name is Padma Dhakappa
+✉️  You can contact me at dhakappa.padma@gmail.com
+🤝  I'm open to collaborating on AI and ML
 
 <!--
 **PadmaDhakappa/PadmaDhakappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
