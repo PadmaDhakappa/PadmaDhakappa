@@ -1,9 +1,13 @@
 Hi My name is Padma Dhakappa
 ✉️  You can contact me at dhakappa.padma@gmail.com
+
 🧠  I'm learning Python
+
 🤝  I'm open to collaborating on AI and ML
+
 Skills
 Python
+
 Socials
 
 
