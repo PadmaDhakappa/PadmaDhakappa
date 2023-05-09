@@ -1,7 +1,11 @@
-### Hi My name is Padma Dhakappa
+Hi My name is Padma Dhakappa
 ✉️  You can contact me at dhakappa.padma@gmail.com
-
+🧠  I'm learning Python
 🤝  I'm open to collaborating on AI and ML
+Skills
+Python
+Socials
+
 
 <!--
 **PadmaDhakappa/PadmaDhakappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
